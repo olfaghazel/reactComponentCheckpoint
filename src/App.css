@@ -1,0 +1,34 @@
+.App{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  border: salmon;
+  border-style: dashed;
+  padding:20px;
+  width: 800px;
+}
+
+div{
+  margin:50px
+}
+
+img{
+  width:300px;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: coral;
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  color: burlywood;
+}
+h4{
+  font-style: italic;
+  color: burlywood;
+}
